@@ -75,7 +75,7 @@ jobs:
           mlflow models build-docker \
             -m "runs:/${{ steps.latest-run.outputs.run_id }}/model" \
             -n heart-disease-mlflow \
-            --enable-mlserver
+            --env-manager=local
 
       - name: Log in to Docker Hub
         uses: docker/login-action@v3
