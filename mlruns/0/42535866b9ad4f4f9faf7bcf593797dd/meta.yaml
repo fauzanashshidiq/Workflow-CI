@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/.Projek/Dicoding/MSML_Muhammad-Fauzan-Ashshidiq/Workflow-CI/mlruns/0/42535866b9ad4f4f9faf7bcf593797dd/artifacts
+end_time: 1780794906417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42535866b9ad4f4f9faf7bcf593797dd
+run_name: heart_disease_ci_random_forest
+run_uuid: 42535866b9ad4f4f9faf7bcf593797dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780794861159
+status: 3
+tags: []
+user_id: M FAUZAN

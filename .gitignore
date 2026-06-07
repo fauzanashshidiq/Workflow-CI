@@ -1,4 +1,3 @@
-mlruns/
-MLProject/artifacts/
+mlruns/\
 __pycache__/
 *.pyc
