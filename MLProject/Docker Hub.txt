@@ -1,0 +1,4 @@
+Isi dengan link Docker Hub image setelah workflow berhasil.
+
+Contoh:
+https://hub.docker.com/r/<dockerhub-username>/heart-disease-mlflow
